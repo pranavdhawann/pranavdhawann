@@ -68,10 +68,16 @@ Machine Learning Engineer specializing in **Computer Vision**, **NLP**, and **Ti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavdhawann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <a href="https://github.com/pranavdhawann">
+    <img src="https://github-readme-stats.vercel.app/api?username=pranavdhawann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/pranavdhawann">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/pranavdhawann">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
 </div>
 
 ---
@@ -81,7 +87,27 @@ Machine Learning Engineer specializing in **Computer Vision**, **NLP**, and **Ti
 - **MS Data Science** | GWU, Washington DC (2026)
 - **B.Tech Computer Science** | Manipal University, India (2024)
 
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on ML projects, discussing research ideas, or exploring opportunities in AI/ML engineering!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavdhawan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvdhawann)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanpranav02@gmail.com)
+
+</div>
+
+---
+
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavdhawann&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  
+  <br><br>
+  
+  <i>⚡ "Transforming data into intelligence, one model at a time"</i>
 </div>
