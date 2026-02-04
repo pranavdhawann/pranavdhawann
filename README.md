@@ -65,21 +65,6 @@ Machine Learning Engineer specializing in **Computer Vision**, **NLP**, and **Ti
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/pranavdhawann">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavdhawann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/pranavdhawann">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/pranavdhawann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
-</div>
-
 ---
 
 ## 📚 Education
