@@ -6,7 +6,7 @@
     <a href="https://pranavdhawan.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.linkedin.com/in/pranavdhawan">
+    <a href="https://www.linkedin.com/in/pranavvdhawann">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:dhawanpranav02@gmail.com">
@@ -103,7 +103,7 @@ I'm always interested in collaborating on ML projects, discussing research ideas
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavdhawan.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavdhawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvdhawann)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanpranav02@gmail.com)
 
 </div>
