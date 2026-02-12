@@ -70,7 +70,7 @@ status: "Open to ML/AI opportunities"
 ### Multimodal Financial Time Series Forecasting
 **GNN-based multimodal architecture fusing LSTM, FinBERT, and graph networks for market prediction**
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann/spring-2026-group4)
 
 
 
@@ -80,7 +80,7 @@ status: "Open to ML/AI opportunities"
 ### Edge-Based PII Detection & Censoring
 **Privacy-preserving system achieving 98.1% F1-score with sub-100ms inference time**
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann/Final-Project-Group4)
 
 
 
@@ -102,7 +102,7 @@ status: "Open to ML/AI opportunities"
 **Real-time market news processing and sentiment analysis platform**
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann/infoedge)
-
+[![Demo](https://img.shields.io/badge/Demo-Live_App-2ea44f?style=flat&logo=google-chrome)](https://stock-sentiment-app-egc2jnomta-uc.a.run.app/)
 
 </td>
 </tr>
