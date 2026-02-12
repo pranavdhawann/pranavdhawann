@@ -1,82 +1,127 @@
 <div align="center">
-  <h1>👋 Hi, I'm Pranav Dhawan</h1>
-  <p><i>Machine Learning Engineer | MS Data Science @ GWU | AI Enthusiast</i></p>
 
-  <p>
-    <a href="https://pranavdhawan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/pranavvdhawann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:dhawanpranav02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+# Hi, I'm Pranav Dhawan
+
+### Machine Learning Engineer | MS Data Science @ GWU | AI Enthusiast
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pranavdhawan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvdhawann)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanpranav02@gmail.com)
 </div>
 
-## 🚀 About Me
-
-Machine Learning Engineer specializing in **Computer Vision**, **NLP**, and **Time Series Forecasting**. Currently pursuing an **MS in Data Science** at **George Washington University** (3.74 GPA). I build intelligent solutions bridging research and production.
-
-- 🔭 **Focus**: Multimodal deep learning, Privacy-preserving AI, GNNs
-- 💼 **Exp**: Former ML Engineer @ Lumina Datamatics (CV & RAG systems)
-- 📍 **Based**: Washington, DC
 
 ---
+<div align="center">
 
-## 🛠️ Tech Stack
+## About Me
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  &nbsp; | &nbsp;
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <br>
-  <!-- Cloud/DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  &nbsp; | &nbsp;
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-</p>
+</div>
+Machine learning engineer who likes building things and experimenting with computer vision, NLP, and time series. Currently doing my MS in Data Science at George Washington University. Mostly interested in turning cool ideas and research into working products.
+
+```yaml
+current_focus: ["Multimodal Quant Learning", "Computer Vision", "Graph Neural Networks"]
+experience: "Former ML Engineer @ Lumina Datamatics (CV & RAG systems)"
+location: "Washington, DC"
+status: "Open to ML/AI opportunities"
+```
+---
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+
+</div>
 
 ---
+<div align="center">
 
-## 🌟 Featured Projects
+## Tech Stack & Tools
 
-### 📈 [Multimodal Financial Time Series Forecasting](https://github.com/pranavdhawann)
-*GNN-based multimodal architecture fusing LSTM, FinBERT, and graph networks.*
-- **Tech**: PyTorch, GNNs, FinBERT, LSTM
 
-### 🔐 [Edge-Based PII Detection & Censoring](https://github.com/pranavdhawann)
-*Privacy system achieving **98.1% F1-score** with <100ms inference.*
-- **Tech**: DeBERTa, BiLSTM-CRF, ONNX, Streamlit
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💬 [PDFInsightBot](https://github.com/pranavdhawann/PDFInsightBot)
-*RAG-powered chatbot using **Mistral LLM** for document Q&A.*
-- **Tech**: Mistral, RAG, Vector Embeddings
+### ML/DL Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🔍 [InfoEdge - Financial Sentiment Analysis](https://github.com/pranavdhawann/infoedge)
-*Real-time market news processing platform.*
-- **Tech**: NLP, Sentiment Analysis
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+</div>
 
----
+<div align="center">
 
-## 📚 Education
-
-- **MS Data Science** | GWU, Washington DC (2026)
-- **B.Tech Computer Science** | Manipal University, India (2024)
 
 ---
+## Featured Projects
 
-## 🤝 Let's Connect!
+<table>
+<tr>
+<td width="50%">
 
-I'm always interested in collaborating on ML projects, discussing research ideas, or exploring opportunities in AI/ML engineering!
+### Multimodal Financial Time Series Forecasting
+**GNN-based multimodal architecture fusing LSTM, FinBERT, and graph networks for market prediction**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann)
+
+
+
+</td>
+<td width="50%">
+
+### Edge-Based PII Detection & Censoring
+**Privacy-preserving system achieving 98.1% F1-score with sub-100ms inference time**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann)
+
+
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### PDFInsightBot
+**RAG-powered intelligent chatbot using Mistral LLM for document question-answering**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann/PDFInsightBot)
+
+
+</td>
+<td width="50%">
+
+### InfoEdge - Financial Sentiment Analysis
+**Real-time market news processing and sentiment analysis platform**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/pranavdhawann/infoedge)
+
+
+</td>
+</tr>
+</table>
+
+---
+## GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdhawann&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+<div align="center">
+
+## Let's Connect
+</div>
+
+I'm always interested in collaborating on ML projects, discussing research ideas, or exploring opportunities in AI/ML engineering. Feel free to reach out!
 
 <div align="center">
 
@@ -84,15 +129,10 @@ I'm always interested in collaborating on ML projects, discussing research ideas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvdhawann)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanpranav02@gmail.com)
 
-</div>
-
----
-
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavdhawann&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  <br><br>
-  
-  <i>⚡ "Transforming data into intelligence, one model at a time"</i>
+
+---
+  <i>"Transforming data into intelligence, one model at a time"</i>
 </div>
