@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Pranav Dhawan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pranav+Dhawan" />
+</p>
 
 ### Machine Learning Engineer | MS Data Science @ GWU | AI Enthusiast
 
