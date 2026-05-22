@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pranav+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
-<p align="left">
+<p align="center">
   MS Data Science, currently AI Engineer at American Chemical Society, Washington DC.<br>
   Always open to connecting and contributing to new work. Feel free to reach out.
 </p>
