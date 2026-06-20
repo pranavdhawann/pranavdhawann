@@ -1,30 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pranav+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Pranav+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  MS Data Science, currently AI Engineer at American Chemical Society, Washington DC.<br>
+  MS Data Science graduate, currently AI Engineer at American Chemical Society, Washington DC.<br>
   Always open to connecting and contributing to new work. Feel free to reach out.
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavdhawann" alt="GitHub streak" />
-  </a>
-</p>
+<div align="center">
 
----
 
-## Featured Projects
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=dark&hide_border=false)
 
-| Project | Description |
-| --- | --- |
-| [Stock Screen](https://github.com/pranavdhawann/infoedge) ([Live](https://stock-screen-25476982226.us-central1.run.app/)) | Real-time equity market analysis and forecasting with a paid version -- currently working on this -- open to working together, feel free to reach out. |
-| [Multimodal Financial Forecasting](https://github.com/pranavdhawann/spring-2026-group4) | Comparative benchmarking of time series models using different combinations of stock input data modalities, features, training and fusion. |
-| [Edge-Based PII Detection](https://github.com/pranavdhawann/Final-Project-Group4) | PII detection system with 98.1% F1 and sub-100 ms inference containing a menu of finetuned transformer models to use as required for different levels of masking confidence. |
-| [PDFInsightBot](https://github.com/pranavdhawann/PDFInsightBot) | quick RAG chatbot using Mistral LLM for document Q&A to use locally. |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&theme=dark&hide_border=false&layout=compact)
 
----
+</div>
+
 
 <p align="center">
   <a href="https://pranavdhawan.netlify.app/">
@@ -41,3 +32,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavdhawann&color=blueviolet&style=flat-square&label=Profile+Views&base=500" alt="Profile views" />
 </p>
+
+<div align="center">
+
+"_Small commits. Big change._"
+
+</div>
