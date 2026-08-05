@@ -3,22 +3,22 @@
 </div>
 
 <p align="center">
-  MS in Data Science. I work on AI, automation, intelligent systems, and building practical solutions with modern machine learning technologies.<br>
+  MS in Data Science. I work on AI, automation, intelligent systems, and building practical solutions.<br>
   Always open to connecting, collaborating, and contributing to interesting projects. Feel free to reach out.
 </p>
 
 <div align="center">
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhawann&theme=dark&hide_border=false" alt="GitHub Streak"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&theme=dark&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhawann&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 
 </div>
 
 
 <p align="center">
-  <a href="https://pranavdhawan.netlify.app/">
+  <a href="https://pranavdhawan.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/pranavvdhawann">
