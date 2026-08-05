@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  MS Data Science graduate. I'm currently an AI Engineer at American Chemical Society, Washington DC.<br>
-  Always open to connecting and contributing to new work. Feel free to reach out.
+  MS in Data Science. I work on AI, automation, intelligent systems, and building practical solutions with modern machine learning technologies.<br>
+  Always open to connecting, collaborating, and contributing to interesting projects. Feel free to reach out.
 </p>
 
 <div align="center">
