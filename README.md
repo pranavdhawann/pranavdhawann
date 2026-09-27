@@ -8,22 +8,9 @@
 
 <!-- ==================== Intro ==================== -->
 <p align="center">
-  MS in Data Science. I work on AI, automation, intelligent systems, and building practical solutions.<br>
-  Always open to connecting, collaborating, and contributing to interesting projects. Feel free to reach out.
+  AI Engineer and Founder of SideQuest India, with an MS in Data Science from George Washington University.<br>
+  I build production AI: agents, NLP, computer vision, and workflow automation. Always open to collaborating, so feel free to reach out.
 </p>
-
-<div align="center">
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com/?user=pranavdhawann&theme=dark&hide_border=false&border_radius=10"
-    alt="GitHub Streak"
-  /><br>
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavdhawann&theme=dark&hide_border=false&layout=compact&border_radius=10&hide=html"
-    alt="Top Languages"
-  />
-</div>
 
 <!-- ==================== Links ==================== -->
 <p align="center">
@@ -33,15 +20,29 @@
   <a href="https://www.linkedin.com/in/pranavvdhawann">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dhawanpranav02@gmail.com">
+  <a href="mailto:pranavdhawan99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<!-- ==================== Stats ==================== -->
+<div align="center">
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com/?user=pranavdhawann&theme=dark&hide_border=false&border_radius=10"
+    alt="GitHub Streak"
+  /><br>
+  <img
+    height="165"
+    src="assets/top-langs.svg"
+    alt="Top Languages"
+  />
+</div>
+
 <!-- ==================== Profile Views ==================== -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=pranavdhawann&color=blueviolet&style=flat-square&label=Profile+Views&base=500"
+    src="https://komarev.com/ghpvc/?username=pranavdhawann&color=blueviolet&style=flat-square&label=Profile+Views"
     alt="Profile views"
   />
 </p>
